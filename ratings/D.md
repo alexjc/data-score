@@ -2,6 +2,7 @@
 
 Models trained on licenses from the [Open Source Initiative](https://opensource.org/) or [Creative Commons](https://creativecommons.org/).
 
+
 ## Evaluation
 
 ### Derivatives
@@ -19,20 +20,35 @@ Yes, conditionally. The same terms and conditions apply from the original licens
 ### Licensing
 > Can you license any derivative works you create downstream?
 
-Partly. You can license your own contributions to the derivative work.  The contributions from the original work remain owned by the original author and under the original license, which requires ongoing compliance.
+Partly. You can license your own original contributions to the derivative work.  The contributions from the original work remain owned by the original author and under the original license, which requires ongoing compliance.
 
 
 ### Protection
 > Would the works you create be granted Copyright protection?
 
+Partly. You can expect protection for your own original contributions to the derivative work — if any.  The remaining would still be owned by the original author.
+
+
 ### Remedies
-> Do you benefit from remebies in the legal system under Copyright?
+> Do you benefit from remedies in the legal system under Copyright?
+
+Partly. You may only seek remedies for your own original contributions to the derivative work — if any.
+
 
 ### Legal Risk
 > What are the risks from a legal perspective?
+
+High.
+
+* Risks of relying on (fraudulently) mislicensed content.
+* Risks of using licenses not designed for machine learning.
+* Rights under Copyright typically require written mutual agreements.
+
 
 ### Overhead
 > Which are the administrative overheads for this rating?
 
 
 ## References
+
+1. [CC Legal Database](https://legaldb.creativecommons.org/cases/)
